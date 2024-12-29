@@ -4,7 +4,6 @@
   FreezeTag 
  <br>
 </h1>
-
 <h3 align=center>A Custom Minigame Based On Real Life Tag with Frozen Theme.</h3>
 <h3 align=center>This plugin has been discontinued.</h3>
 
